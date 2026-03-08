@@ -190,6 +190,8 @@ Expected behavior:
 
 * As **SNR increases**, noise decreases
 * **BER decreases**, meaning fewer transmission errors
+  <img width="715" height="561" alt="image" src="https://github.com/user-attachments/assets/a02f77e1-baf5-42f3-a6fb-f6d190f96705" />
+
 
 ---
 
@@ -203,6 +205,9 @@ Ideal QPSK constellation:
       ●       ●
 
       ●       ●
+
+<img width="704" height="576" alt="image" src="https://github.com/user-attachments/assets/e3c57f89-3e15-4b8d-809c-14620b936938" />
+
 ```
 
 Noise causes these points to spread around the ideal positions.
