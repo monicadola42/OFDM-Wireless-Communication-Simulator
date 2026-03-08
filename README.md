@@ -255,5 +255,3 @@ This project demonstrates how a complete **OFDM-based wireless communication sys
 The implementation helps understand important communication concepts such as **modulation, multipath fading, channel estimation, and equalization**.
 
 ---
-
-**Monica Dola**
