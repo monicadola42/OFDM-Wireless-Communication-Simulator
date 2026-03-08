@@ -206,9 +206,9 @@ Ideal QPSK constellation:
 
       ●       ●
 
-<img width="704" height="576" alt="image" src="https://github.com/user-attachments/assets/e3c57f89-3e15-4b8d-809c-14620b936938" />
-
 ```
+<img width="704" height="576" alt="image" src="https://github.com/user-attachments/assets/c337b9a4-005f-4be8-8da1-dc84ca4e8aff" />
+
 
 Noise causes these points to spread around the ideal positions.
 
